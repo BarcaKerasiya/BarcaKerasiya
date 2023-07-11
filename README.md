@@ -12,6 +12,7 @@
         I'm Vishnu Kerasiya.<br>
          A full-stack developer with a growing passion for machine learning and deep learning.<br>
         Open to collaborating on interesting and innovative projects.<br>
+         Please don't judge my abilities as a developer based solely on my GitHub activities🧐.
     </i><br>
     <a href="https://www.linkedin.com/in/kerasiya-vishnu-0j7j1j0j/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
